@@ -1,4 +1,4 @@
-module github.com/Carcraftz/cclient
+module github.com/linostar/cclient
 
 go 1.16
 
