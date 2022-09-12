@@ -10,8 +10,8 @@ package main
 import (
     "log"
 
-    tls "github.com/Carcraftz/utls"
-    "github.com/Carcraftz/cclient"
+    tls "github.com/linostar/utls"
+    "github.com/linostar/cclient"
 )
 
 func main() {
